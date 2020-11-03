@@ -3,11 +3,6 @@ body {
   font-weight: 400;
 }
 
-/* Download Buttons */
-.download-btn {
-  margin: 5% 3% 5% 0;
-}
-
 .container-fluid {
   padding: 3% 15%;
 }
@@ -16,6 +11,11 @@ body {
   width: 60%;
   padding-left: 4rem;
   transform: rotate(20deg);
+}
+
+/* Download Buttons */
+.download-btn {
+  margin: 5% 3% 5% 0;
 }
 
 .feature-box {
@@ -28,8 +28,8 @@ body {
 }
 
 h1 {
-  font-weight: 900;
   font-size: 3.5rem;
+  font-weight: 900;
   line-height: 1.5;
   margin-bottom: 2rem;
   width: 75%;
@@ -75,8 +75,8 @@ p {
 }
 
 .press-logo {
-  width: 15%;
   margin: 1.25rem 1.25rem 2.5rem;
+  width: 15%;
 }
 
 .icon {
