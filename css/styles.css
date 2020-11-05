@@ -3,6 +3,10 @@ body {
   font-weight: 400;
 }
 
+.carousel-item {
+  padding: 7% 15%;
+}
+
 .container-fluid {
   padding: 3% 15%;
 }
@@ -98,7 +102,6 @@ p {
 #testimonials {
   background-color: #ef8172;
   color: #fff;
-  padding: 7% 15%;
   text-align: center;
 }
 
