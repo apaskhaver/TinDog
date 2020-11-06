@@ -8,13 +8,16 @@ body {
 }
 
 .container-fluid {
-  padding: 3% 15%;
+  padding: 3% 15% 7%;
 }
 
 .dog-image {
-  width: 60%;
   padding-left: 4rem;
+  position: absolute;
+  right: 30%;
   transform: rotate(20deg);
+  width: 60%;
+
 }
 
 /* Download Buttons */
@@ -28,7 +31,9 @@ body {
 }
 
 #features {
+  background-color: #fff;
   padding: 7% 15%;
+  position: relative;
 }
 
 h1 {
@@ -81,6 +86,16 @@ p {
 .press-logo {
   margin: 1.25rem 1.25rem 2.5rem;
   width: 15%;
+}
+
+/* Pricing */
+#pricing {
+  padding: 100px;
+  text-align: center;
+}
+
+.pricing-col {
+  padding: 3% 2%;
 }
 
 .icon {
