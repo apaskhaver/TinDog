@@ -20,6 +20,17 @@ body {
 
 }
 
+@media (max-width: 1028px) {
+  .dog-image {
+    position: static;
+    transform: rotate(0);
+  }
+
+  #title {
+    text-align: center;
+  }
+}
+
 /* Download Buttons */
 .download-btn {
   margin: 5% 3% 5% 0;
