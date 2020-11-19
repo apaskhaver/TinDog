@@ -64,19 +64,7 @@ body {
 
 h1, h2, h3, h4, h5, h6 {
   font-family: "Montserrat", sans-serif;
-}
-
-h2 {
-  font-size: 3rem;
   font-weight: 900;
-  line-height: 1.5;
-}
-
-h3 {
-  font-size: 1.5rem;
-  font-family: "Montserrat", sans-serif;
-  font-weight: 900;
-  margin-top: 1rem;
 }
 
 .navbar {
@@ -161,8 +149,8 @@ p {
 }
 
 #title {
-  color: #fff;
   background-color: #ff4c68;
+  color: #fff;
   text-align: left;
 }
 
